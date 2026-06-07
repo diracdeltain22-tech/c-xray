@@ -1,3 +1,2 @@
-trojan://Y(Z^&|dg}eW$WCjF@small-resonance-1353.mrlolyeradbn.workers.dev:2052?path=%2FeyJqdW5rIjoiNk9oTllzV2EiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyJuaW1hLm5zY2wuaXIiXX0%3D&security=none&type=ws#%F0%9F%94%A5
 trojan://d8bc8425-5e80-4c26-bd93-af634c033e2d@purnet.gmijcp.workers.dev:80?host=purnet.gmijcp.workers.dev&path=%252F%253Fed%3D2048&security=none&type=ws#%F0%9F%94%A5
 trojan://f05ee819-5f42-44b6-bd2a-bf4917cbf38e@172.64.35.196:80?host=hidden-pine-8798.amon-morningstar01.workers.dev&path=%252F%253Fed%3D2048&security=none&type=ws#%F0%9F%94%A5
