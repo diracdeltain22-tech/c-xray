@@ -1,15 +1,2 @@
 trojan://d8bc8425-5e80-4c26-bd93-af634c033e2d@purnet.gmijcp.workers.dev:80?host=purnet.gmijcp.workers.dev&path=%252F%253Fed%3D2048&security=none&type=ws#%F0%9F%94%A5
-trojan://d8bc8425-5e80-4c26-bd93-af634c033e2d@104.17.119.28:80?host=purnet.gmijcp.workers.dev&path=%252F%253Fed%3D2048&security=none&type=ws#%F0%9F%94%A5
-trojan://d8bc8425-5e80-4c26-bd93-af634c033e2d@104.17.128.196:80?host=purnet.gmijcp.workers.dev&path=%252F%253Fed%3D2048&security=none&type=ws#%F0%9F%94%A5
-trojan://d8bc8425-5e80-4c26-bd93-af634c033e2d@104.17.112.200:80?host=purnet.gmijcp.workers.dev&path=%252F%253Fed%3D2048&security=none&type=ws#%F0%9F%94%A5
-trojan://d8bc8425-5e80-4c26-bd93-af634c033e2d@104.17.56.54:80?host=purnet.gmijcp.workers.dev&path=%252F%253Fed%3D2048&security=none&type=ws#%F0%9F%94%A5
-trojan://d8bc8425-5e80-4c26-bd93-af634c033e2d@104.17.153.30:80?host=purnet.gmijcp.workers.dev&path=%252F%253Fed%3D2048&security=none&type=ws#%F0%9F%94%A5
-trojan://d8bc8425-5e80-4c26-bd93-af634c033e2d@104.17.176.228:80?host=purnet.gmijcp.workers.dev&path=%252F%253Fed%3D2048&security=none&type=ws#%F0%9F%94%A5
-trojan://d8bc8425-5e80-4c26-bd93-af634c033e2d@104.17.135.199:80?host=purnet.gmijcp.workers.dev&path=%252F%253Fed%3D2048&security=none&type=ws#%F0%9F%94%A5
-trojan://d8bc8425-5e80-4c26-bd93-af634c033e2d@104.19.47.96:80?host=purnet.gmijcp.workers.dev&path=%252F%253Fed%3D2048&security=none&type=ws#%F0%9F%94%A5
-trojan://d8bc8425-5e80-4c26-bd93-af634c033e2d@162.159.13.201:80?host=purnet.gmijcp.workers.dev&path=%252F%253Fed%3D2048&security=none&type=ws#%F0%9F%94%A5
-trojan://d8bc8425-5e80-4c26-bd93-af634c033e2d@162.159.20.55:80?host=purnet.gmijcp.workers.dev&path=%252F%253Fed%3D2048&security=none&type=ws#%F0%9F%94%A5
-trojan://d8bc8425-5e80-4c26-bd93-af634c033e2d@162.159.20.155:80?host=purnet.gmijcp.workers.dev&path=%252F%253Fed%3D2048&security=none&type=ws#%F0%9F%94%A5
-trojan://d8bc8425-5e80-4c26-bd93-af634c033e2d@172.64.50.224:80?host=purnet.gmijcp.workers.dev&path=%252F%253Fed%3D2048&security=none&type=ws#%F0%9F%94%A5
-trojan://d8bc8425-5e80-4c26-bd93-af634c033e2d@172.64.41.163:80?host=purnet.gmijcp.workers.dev&path=%252F%253Fed%3D2048&security=none&type=ws#%F0%9F%94%A5
 trojan://f05ee819-5f42-44b6-bd2a-bf4917cbf38e@172.64.35.196:80?host=hidden-pine-8798.amon-morningstar01.workers.dev&path=%252F%253Fed%3D2048&security=none&type=ws#%F0%9F%94%A5
