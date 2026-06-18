@@ -1,1 +1,2 @@
+trojan://VN3zRAL4Hq@45.130.125.156:8080?host=s3.aananas.ir&path=%2Fda&security=none&type=ws#%F0%9F%94%A5
 trojan://4iZbv+W5BAAFM0EX0vLSSCZ03nBzESmmltE67ZCIPSA=@89.167.82.102:2080?security=none#%F0%9F%94%A5
