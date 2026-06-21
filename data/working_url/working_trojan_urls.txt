@@ -1,3 +1,2 @@
-trojan://R6am5csvuv6rXxURXiDSPg@178.63.244.11:8443?security=none#%F0%9F%94%A5
-trojan://4iZbv+W5BAAFM0EX0vLSSCZ03nBzESmmltE67ZCIPSA=@89.167.82.102:2080?security=none#%F0%9F%94%A5
-trojan://99ZHPFGaeO95HUgjkd4TCuDSBQh0C1ixtMD2wconigg=@89.167.82.102:2053?security=none#%F0%9F%94%A5
+trojan://+/rFID9gXZ/jBDCsT6V+dfgc4m5zLdnXYX6BWVHQaI0=@89.167.82.102:2053?security=none#%F0%9F%94%A5
+trojan://+/rFID9gXZ/jBDCsT6V+dfgc4m5zLdnXYX6BWVHQaI0=@89.167.82.102:2080?security=none#%F0%9F%94%A5
