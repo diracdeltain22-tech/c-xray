@@ -1,2 +1,0 @@
-trojan://MITIVPN@151.101.1.194:80?host=mitivpn--3.global.ssl.fastly.net&path=%2Fed%3Dmitivpn&security=none&type=ws#%F0%9F%94%A5
-trojan://MITIVPN@151.101.242.172:80?host=mitivpn--4.global.ssl.fastly.net&path=%2Fed%3Dmitivpn&security=none&type=ws#%F0%9F%94%A5
