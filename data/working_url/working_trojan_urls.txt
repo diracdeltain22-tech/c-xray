@@ -1,5 +1,2 @@
-trojan://MiTiVPN@198.12.144.3:80?host=Nl.App-Cloud.ir&path=%2FMiTiVPN%3DNL&security=none&type=ws#%F0%9F%94%A5
-trojan://MiTiVPN@212.183.88.3:80?host=Nl.App-Cloud.ir&path=%2FMiTiVPN%3DNL&security=none&type=ws#%F0%9F%94%A5
-trojan://MiTiVPN@209.94.90.3:80?host=Nl.App-Cloud.ir&path=%2FMiTiVPN%3DNL&security=none&type=ws#%F0%9F%94%A5
-trojan://MiTiVPN@50.62.194.3:80?host=Nl.App-Cloud.ir&path=%2FMiTiVPN%3DNL&security=none&type=ws#%F0%9F%94%A5
-trojan://MiTiVPN@109.176.239.3:80?host=Nl.App-Cloud.ir&path=%2FMiTiVPN%3DNL&security=none&type=ws#%F0%9F%94%A5
+trojan://b0c94dd5-0c4c-6e1e-7ecf-84c386f7c748@aged-silence-8d7d.tahaggs.workers.dev:2086?host=aged-silence-8d7d.tahaggs.workers.dev&path=%2Ftaha3&security=none&sni=aged-silence-8d7d.tahaggs.workers.dev&type=ws#%F0%9F%94%A5
+trojan://b0c94dd5-0c4c-6e1e-7ecf-84c386f7c748@aged-silence-8d7d.tahaggs.workers.dev:8080?host=aged-silence-8d7d.tahaggs.workers.dev&path=%2Ftaha3&security=none&sni=aged-silence-8d7d.tahaggs.workers.dev&type=ws#%F0%9F%94%A5
