@@ -1,2 +1,3 @@
-trojan://b0c94dd5-0c4c-6e1e-7ecf-84c386f7c748@aged-silence-8d7d.tahaggs.workers.dev:8080?host=aged-silence-8d7d.tahaggs.workers.dev&path=%2Ftaha3&security=none&sni=aged-silence-8d7d.tahaggs.workers.dev&type=ws#%F0%9F%94%A5
+trojan://Ldbgt4IUYv0S+5cFrG4vcWEbvdf8RgPGmoIXhnnOEh4=@65.109.215.50:54673?security=none#%F0%9F%94%A5
 trojan://b0c94dd5-0c4c-6e1e-7ecf-84c386f7c748@aged-silence-8d7d.tahaggs.workers.dev:2086?host=aged-silence-8d7d.tahaggs.workers.dev&path=%2Ftaha3&security=none&sni=aged-silence-8d7d.tahaggs.workers.dev&type=ws#%F0%9F%94%A5
+trojan://b0c94dd5-0c4c-6e1e-7ecf-84c386f7c748@aged-silence-8d7d.tahaggs.workers.dev:8080?host=aged-silence-8d7d.tahaggs.workers.dev&path=%2Ftaha3&security=none&sni=aged-silence-8d7d.tahaggs.workers.dev&type=ws#%F0%9F%94%A5
