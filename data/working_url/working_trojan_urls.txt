@@ -1,2 +1,4 @@
-trojan://Bj/rrIFL5RNiqIITz3swPoDD9uiMr2uJw43l+o1TERs=@91.107.135.249:14497?security=none#%F0%9F%94%A5
+trojan://h1j3H7aFfh1kKPjusgOBfj2kWDelatQDAMWl3ayMioM=@91.107.139.186:30879?security=none#%F0%9F%94%A5
+trojan://b0c94dd5-0c4c-6e1e-7ecf-84c386f7c748@aged-silence-8d7d.tahaggs.workers.dev:2086?host=aged-silence-8d7d.tahaggs.workers.dev&path=%2Ftaha3&security=none&sni=aged-silence-8d7d.tahaggs.workers.dev&type=ws#%F0%9F%94%A5
 trojan://b0c94dd5-0c4c-6e1e-7ecf-84c386f7c748@aged-silence-8d7d.tahaggs.workers.dev:8080?host=aged-silence-8d7d.tahaggs.workers.dev&path=%2Ftaha3&security=none&sni=aged-silence-8d7d.tahaggs.workers.dev&type=ws#%F0%9F%94%A5
+trojan://ncnr1qxfkf4j1pg1@de-d-178105.homelanderwins.com:44600?host=P30day.ir&path=%2Ft.me%2Fdefyxvpn_fa&security=none&type=ws#%F0%9F%94%A5
