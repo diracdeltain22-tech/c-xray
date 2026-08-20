@@ -1,1 +1,0 @@
-trojan://FKye4EwceZ9QrsDOPabVdb33@94.130.141.81:29839?host=94.130.141.81&path=%2Fws&security=none&type=ws#%F0%9F%94%A5
